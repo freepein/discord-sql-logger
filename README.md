@@ -1,4 +1,4 @@
-# A Simple Discord Logger that inputs all entries to a mysql DB
+# A simple Discord logger that inputs all entries to a mysql DB
 
 [![Python 3.6](https://img.shields.io/badge/Python-3.6-blue.svg)](https://www.python.org/download/releases/3.0/)
 
