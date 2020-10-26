@@ -25,6 +25,5 @@ async def on_message(message):
     val = (f"{message.guild.name}", datetime.today().strftime("%Y-%m-%d"), f"{message.author}", f"{message.author.id}", f"{message.content}")
     cursor.execute(sql_msg, val)
     sql.commit()
-    print("Logged Message :D")
 
 client.run("PUT YOUR TOKEN HERE", bot=False)
