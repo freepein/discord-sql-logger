@@ -3,6 +3,9 @@
 [![Python 3.6](https://img.shields.io/badge/Python-3.6-blue.svg)](https://www.python.org/download/releases/3.0/)
 
 
+!!!!!!WARNING!!!!!!!!
+DISCORD.PY NO LONGER SUPPORTS SELFBOTS, THE ONLY FIX IS TO USE DISCORD.PY-SELF !!!!!!!!!
+
 
 ## Table of contents
 
